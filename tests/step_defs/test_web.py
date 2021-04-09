@@ -22,7 +22,7 @@ scenarios('../features/web.feature')
 
 # # Given Steps
 # @given('the Google home page is displayed')
-# def gooogle_home(browser):
+# def google_home(browser):
 #     browser.get(GOOGLE_HOME)
 
 

@@ -1,2 +1,3 @@
 import sys
-sys.path.append("D:/Projects/AutomationU/pytest-bdd")
+import os
+sys.path.append(os.path.dirname(sys.path[0]))
